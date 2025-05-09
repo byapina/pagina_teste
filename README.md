@@ -1,2 +1,2 @@
 # Página teste
-weeb hospedada pelo github ;)
+web hospedada pelo github ;)
